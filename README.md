@@ -1,16 +1,16 @@
-### Hi there 👋
+<h3 align="center">Hi there 👋</h3>
+<p align="center">
+  <a href="https://vahor.fr">Blog</a> •
+  <a href="https://twitter.com/Vahor_">Twitter</a>
+</p>
 
-<!--
-**Vahor/Vahor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I'm a French Full-Stack Developer !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Informations
+
+- ⚡ The code for my blog is open source and is available to check out [here](https://github.com/Vahor/Vahor.fr)
+- 🏢 I am currently a student in computer science
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=vahor.vahor)
